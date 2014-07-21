@@ -6,7 +6,7 @@ void main()
   cout<<"Manisha's Line: ";
   cout<<"Pratiksha's Line:";
   cout<<"Mona's Line:";
-  cout<<"Gopal's Line:";
+  cout<<"Gopal's Line: Hello To Every One... Good Morning To All";
   cout<<"Sagar's Line:";
   cout<<"Vishawas's Line: ";
 }
