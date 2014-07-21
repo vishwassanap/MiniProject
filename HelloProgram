@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+  cout<<"Sample Hello Program";
+  cout<<"Manisha's Line: ";
+  cout<<"Pratiksha's Line:";
+  cout<<"Mona's Line:";
+  cout<<"Gopal's Line:";
+  cout<<"Sagar's Line:";
+  cout<<"Vishawas's Line: ";
+}
