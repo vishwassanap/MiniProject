@@ -8,5 +8,5 @@ void main()
   cout<<"Mona's Line:";
   cout<<"Gopal's Line: Hello To Every One... Good Morning To All";
   cout<<"Sagar's Line:";
-  cout<<"Vishawas's Line: ";
+  cout<<"Vishawas's Line: Hello to all from Vishwas.";
 }
